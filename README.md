@@ -32,8 +32,6 @@ On first launch, enter your Broadcaster server details:
 - **Server IP**: Your server's IP address (e.g., `192.168.1.100`)
 - **Port**: Server port (default: `12121`)
 
-Or tap "Use Demo Server" to connect to the public demo at `tv.tedcharles.net`.
-
 ## Remote Controls
 
 ### Video Player
